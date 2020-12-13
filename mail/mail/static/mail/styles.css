@@ -1,0 +1,26 @@
+textarea {
+    min-height: 400px;
+}
+
+#email-view-mail {
+    border-style: groove;   
+    background-color: white;
+}
+
+#inbox-subject {
+    padding-left: 50px;
+}
+
+#inbox-timestamp {
+    float: right;
+}
+
+#email-read-mail {
+    border-style: groove;
+    background-color: gray;
+}
+
+#inbox-sender:hover {
+    color: blue;
+    cursor: pointer; 
+}
